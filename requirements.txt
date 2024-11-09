@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+textblob
+langdetect==1.0.9
+googletrans==4.0.0-rc1
+deep-translator==1.10.1
